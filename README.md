@@ -1,6 +1,6 @@
 # osquery ebpf configuartion example
 
-An example configuration for running osquery on a Linux Server. 
+An example configuration for running osquery on a Linux Server using the eBPF event system. 
 
 ## What is eBPF?
 
