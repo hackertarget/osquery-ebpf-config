@@ -1,4 +1,4 @@
-# osquery ebpf configuartion example
+# osquery ebpf configuration example
 
 An example configuration for running osquery on a Linux Server using the eBPF event system. 
 
